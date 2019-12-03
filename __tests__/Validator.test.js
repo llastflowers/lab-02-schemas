@@ -11,9 +11,9 @@ describe('Validator', () => {
             });
         });
 
-        it('returns the field of the object', () => {
+        it('returns the value of the field', () => {
             const cat = {
-                name: 'willow',
+                name: '',
                 age: 3,
                 color: 'black and white'
             };
