@@ -13,7 +13,7 @@ describe('Validator', () => {
 
         it('returns the value of the field', () => {
             const cat = {
-                name: '',
+                name: 'willow',
                 age: 3,
                 color: 'black and white'
             };
