@@ -1,33 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1575418012723" clover="3.2.0">
-  <project timestamp="1575418012723" name="All files">
-    <metrics statements="45" coveredstatements="44" conditionals="28" coveredconditionals="27" methods="15" coveredmethods="15" elements="88" coveredelements="86" complexity="0" loc="45" ncloc="45" packages="1" files="2" classes="2"/>
+<coverage generated="1575421000220" clover="3.2.0">
+  <project timestamp="1575421000220" name="All files">
+    <metrics statements="46" coveredstatements="46" conditionals="32" coveredconditionals="32" methods="15" coveredmethods="15" elements="93" coveredelements="93" complexity="0" loc="46" ncloc="46" packages="1" files="2" classes="2"/>
     <file name="Validator.js" path="/home/brittany/alchemy/career-track/lab-02-schemas/lib/Validator.js">
-      <metrics statements="10" coveredstatements="9" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="2"/>
+      <metrics statements="11" coveredstatements="11" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="5" count="1" type="stmt"/>
-      <line num="6" count="1" type="stmt"/>
-      <line num="7" count="1" type="stmt"/>
-      <line num="8" count="1" type="stmt"/>
-      <line num="11" count="1" type="stmt"/>
-      <line num="12" count="1" type="cond" truecount="3" falsecount="1"/>
-      <line num="13" count="0" type="stmt"/>
-      <line num="15" count="1" type="stmt"/>
-      <line num="19" count="1" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="11" count="6" type="stmt"/>
+      <line num="12" count="6" type="cond" truecount="4" falsecount="0"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="16" count="4" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
     </file>
     <file name="types.js" path="/home/brittany/alchemy/career-track/lab-02-schemas/lib/types.js">
       <metrics statements="35" coveredstatements="35" conditionals="24" coveredconditionals="24" methods="13" coveredmethods="13"/>
-      <line num="1" count="17" type="stmt"/>
-      <line num="2" count="20" type="stmt"/>
-      <line num="3" count="18" type="stmt"/>
-      <line num="4" count="17" type="stmt"/>
+      <line num="1" count="20" type="stmt"/>
+      <line num="2" count="22" type="stmt"/>
+      <line num="3" count="20" type="stmt"/>
+      <line num="4" count="20" type="stmt"/>
       <line num="5" count="6" type="cond" truecount="2" falsecount="0"/>
       <line num="6" count="6" type="stmt"/>
       <line num="8" count="2" type="stmt"/>
-      <line num="9" count="11" type="cond" truecount="2" falsecount="0"/>
-      <line num="10" count="7" type="cond" truecount="2" falsecount="0"/>
-      <line num="11" count="5" type="cond" truecount="2" falsecount="0"/>
-      <line num="12" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="14" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="5" type="cond" truecount="2" falsecount="0"/>
       <line num="13" count="2" type="stmt"/>
       <line num="16" count="2" type="stmt"/>
       <line num="17" count="7" type="cond" truecount="2" falsecount="0"/>
@@ -49,8 +50,8 @@
       <line num="43" count="9" type="stmt"/>
       <line num="47" count="2" type="stmt"/>
       <line num="53" count="2" type="stmt"/>
-      <line num="54" count="6" type="cond" truecount="2" falsecount="0"/>
-      <line num="56" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="54" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="56" count="6" type="cond" truecount="2" falsecount="0"/>
       <line num="59" count="2" type="stmt"/>
     </file>
   </project>
