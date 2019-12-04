@@ -3,3 +3,6 @@ types.test.js
 
 Validator.js
 Validator.test.js
+
+Schema.js
+Schema.test.js
